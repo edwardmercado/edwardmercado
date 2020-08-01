@@ -8,7 +8,6 @@
 - ⚡ Fun fact: Developing applications is my hobby, and I love what I do. The desire to learn and discover new things gives me fuel to aim higher everytime.
 
 <br />
-<br />
 
 ### Languages and Tools:
 
@@ -25,6 +24,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### Connect with me:
 
@@ -34,8 +34,6 @@
 
 <br />
 <br />
-
----
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
