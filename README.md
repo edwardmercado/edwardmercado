@@ -28,10 +28,9 @@
 
 ### Connect with me:
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
 [<img align="left" alt="edwardallen.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="https://twitter.com/edwardmercado_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<i width="26px" class="fab fa-linkedin"></i>][linkedin]
+[<img align="left" alt="https://www.linkedin.com/in/edward-allen-mercado-677b69139/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
@@ -40,7 +39,6 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My journey on "The Cloud Resume Challenge"](https://dev.to/edwardmercado/my-journey-on-the-cloud-resume-challenge-mh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
