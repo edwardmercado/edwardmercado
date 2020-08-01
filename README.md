@@ -35,6 +35,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [My journey on "The Cloud Resume Challenge"](https://dev.to/edwardmercado/my-journey-on-the-cloud-resume-challenge-mh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
