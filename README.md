@@ -1,6 +1,6 @@
-### Hi there, I'm Edward Allen 👋
+# Hi there, I'm [Edward Allen](https://edwardallen.de) 👋
 
-## I'm a Developer and Cloud enthusiast!
+## I'm a Developer and Cloud enthusiast
 - 🔭 I’m currently working on a developing my skills on cloud computing!
 - 🌱 I’m currently learning everything relevant and taking all the oppurtinity I can get
 - 👯 I’m looking to collaborate with other developers and cloud engineers
@@ -35,7 +35,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Journey on the cloud resume challenge](https://dev.to/edwardmercado/my-journey-on-the-cloud-resume-challenge-mh4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
