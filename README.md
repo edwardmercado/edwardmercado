@@ -10,8 +10,8 @@
 ### Connect with me:
 
 [<img align="left" alt="edwardallen.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Edward Allen Mercado | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/edwardmercado_]
-[<img align="left" alt="Edward Allen Mercado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/edward-allen-mercado-677b69139/]
+[<img align="left" alt="https://twitter.com/edwardmercado_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/edward-allen-mercado-677b69139/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
