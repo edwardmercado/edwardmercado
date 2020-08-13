@@ -41,6 +41,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Learning "clouds" in one platform](https://dev.to/edwardmercado/learning-clouds-in-one-platform-45in)
 - [My journey on "The Cloud Resume Challenge"](https://dev.to/edwardmercado/my-journey-on-the-cloud-resume-challenge-mh4)
 <!-- BLOG-POST-LIST:END -->
 
