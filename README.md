@@ -41,6 +41,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [#CloudGuruChallenge – Event-Driven Python on AWS - Completed!](https://dev.to/edwardmercado/cloudguruchallenge-event-driven-python-on-aws-completed-3nnm)
 - [Learn every aspect of the cloud in one platform](https://dev.to/edwardmercado/learning-clouds-in-one-platform-45in)
 - [My journey on "The Cloud Resume Challenge"](https://dev.to/edwardmercado/my-journey-on-the-cloud-resume-challenge-mh4)
 <!-- BLOG-POST-LIST:END -->
