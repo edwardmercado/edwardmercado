@@ -41,7 +41,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Well-Architected Framework and it's 5 Pillars Pt. 2](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-2-1pao)
+- [The AWS Well-Architected Framework and it's 5 Pillars Pt. 2 on](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-2-1pao)
 - [The AWS Well-Architected Framework and it's 5 Pillars Pt. 1](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-1-4685)
 - [#CloudGuruChallenge – Event-Driven Python on AWS - Completed!](https://dev.to/edwardmercado/cloudguruchallenge-event-driven-python-on-aws-completed-3nnm)
 - [Learn every aspect of the cloud in one platform](https://dev.to/edwardmercado/learning-clouds-in-one-platform-45in)
