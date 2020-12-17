@@ -41,11 +41,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a modern Web Application](https://dev.to/edwardmercado/build-a-modern-web-application-3o4f)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 5](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-5-p40)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 4](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-4-15pk)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 3](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-3-5d5)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 2](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-2-1pao)
-- [The AWS Well-Architected Framework and it's 5 Pillars - Part 1](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-1-4685)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
