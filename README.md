@@ -41,11 +41,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to extract emails from Gmail using Python and AWS](https://dev.to/edwardmercado/how-to-extract-emails-from-gmail-using-python-and-aws-2hp9)
 - [Build a modern Web Application](https://dev.to/edwardmercado/build-a-modern-web-application-3o4f)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 5](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-5-p40)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 4](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-4-15pk)
 - [The AWS Well-Architected Framework and it's 5 Pillars - Part 3](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-3-5d5)
-- [The AWS Well-Architected Framework and it's 5 Pillars - Part 2](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-pt-2-1pao)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
