@@ -42,10 +42,10 @@
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Continuous Delivery is NOT Continuous Deployment](https://dev.to/aws-builders/continuous-delivery-is-not-continuous-deployment-2kke)
-- [The 6 R's Of Cloud Migration](https://dev.to/awscommunity-asean/the-6-r-s-of-cloud-migration-2p17)
+- [The 6 R&#39;s Of Cloud Migration](https://dev.to/awscommunity-asean/the-6-r-s-of-cloud-migration-2p17)
 - [How to extract emails from Gmail using Python and AWS](https://dev.to/edwardmercado/how-to-extract-emails-from-gmail-using-python-and-aws-2hp9)
 - [Build a modern Web Application](https://dev.to/edwardmercado/build-a-modern-web-application-3o4f)
-- [The AWS Well-Architected Framework and it's 5 Pillars - Part 5](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-5-p40)
+- [The AWS Well-Architected Framework and it&#39;s 5 Pillars - Part 5](https://dev.to/edwardmercado/the-aws-well-architected-framework-and-it-s-5-pillars-part-5-p40)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
