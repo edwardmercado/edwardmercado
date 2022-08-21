@@ -58,6 +58,6 @@
 
 <img align="left" alt="Edward Allen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=edwardmercado&show_icons=true&hide_border=true" />
 
-[website]: https://edwardallen.de
+[website]: https://d1pfojvfwafxuo.cloudfront.net/
 [twitter]: https://twitter.com/edwardmercado_
 [linkedin]: https://www.linkedin.com/in/edward-allen-mercado-677b69139/
