@@ -1,11 +1,11 @@
 # Hi there, I'm [Edward Allen](https://edwardallen.de) 👋
 
-## I'm a Developer and Cloud enthusiast
+## I'm an AWS Cloud Solutions Architect with DevOps Experties
 - 🔭 I’m currently working on a developing my skills on cloud computing!
 - 🌱 I’m currently learning everything relevant and taking all the oppurtinity I can get
 - 👯 I’m looking to collaborate with other developers and cloud engineers
-- 🥅 2020 Goals: Be more engaged on contributing to Open Source projects
-- ⚡ Fun fact: Developing applications is my hobby, and I love what I do. The desire to learn and discover new things gives me fuel to aim higher everytime.
+- 🥅 2022 Goals: Be more engaged on contributing to the cloud community
+- ⚡ Fun fact: Developing applications is my hobby. The desire to learn and discover new things gives me fuel to aim higher everytime.
 
 <br />
 
