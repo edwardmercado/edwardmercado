@@ -1,4 +1,4 @@
-# Hi there, I'm [Edward Allen](d1pfojvfwafxuo.cloudfront.net) 👋
+# Hi there, I'm [Edward Allen](https://d1pfojvfwafxuo.cloudfront.net/) 👋
 
 ## I'm an AWS Cloud Solutions Architect with DevOps Experties
 - 🔭 I’m currently working on a developing my skills on cloud computing!
