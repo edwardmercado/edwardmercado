@@ -41,11 +41,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [AWS Client VPN Implementation for Private Networks](https://dev.to/aws-builders/aws-client-vpn-implementation-for-private-networks-16oe)
 - [How Cloud Bridge uses Cloudamize to accelerate client workload migration to AWS](https://dev.to/edwardmercado/how-cloud-bridge-uses-cloudamize-to-accelerate-client-workload-migration-to-aws-j6b)
 - [Sync Git Repository from Github to AWS CodeCommit with Terraform](https://dev.to/aws-builders/sync-git-repository-from-github-to-aws-codecommit-with-terraform-4iap)
 - [Continuous Delivery is NOT Continuous Deployment](https://dev.to/aws-builders/continuous-delivery-is-not-continuous-deployment-2kke)
 - [The 6 R&#39;s Of Cloud Migration](https://dev.to/awscommunity-asean/the-6-r-s-of-cloud-migration-2p17)
-- [How to extract emails from Gmail using Python and AWS](https://dev.to/edwardmercado/how-to-extract-emails-from-gmail-using-python-and-aws-2hp9)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
