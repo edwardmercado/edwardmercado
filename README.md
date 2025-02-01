@@ -41,11 +41,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Migrating Kubernetes volume contents to another](https://dev.to/aws-builders/migrating-kubernetes-volume-contents-to-another-1e04)
 - [Unveiling the Kubernetes Resume Challenge: A Quest for Professional Growth - Extra Steps](https://dev.to/edwardmercado/unveiling-the-kubernetes-resume-challenge-a-quest-for-professional-growth-extra-steps-38pl)
 - [Unveiling the Kubernetes Resume Challenge: A Quest for Professional Growth - Part 2](https://dev.to/edwardmercado/unveiling-the-kubernetes-resume-challenge-a-quest-for-professional-growth-part-2-2pmd)
 - [Unveiling the Kubernetes Resume Challenge: A Quest for Professional Growth - Part 1](https://dev.to/edwardmercado/unveiling-the-kubernetes-resume-challenge-a-quest-for-professional-growth-part-1-nf5)
 - [AWS Client VPN Implementation for Private Networks](https://dev.to/aws-builders/aws-client-vpn-implementation-for-private-networks-16oe)
-- [How Cloud Bridge uses Cloudamize to accelerate client workload migration to AWS](https://dev.to/edwardmercado/how-cloud-bridge-uses-cloudamize-to-accelerate-client-workload-migration-to-aws-j6b)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
